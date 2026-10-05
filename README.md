@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This repository has moved to [humanfia/hoa-qed/imo2026](https://github.com/humanfia/hoa-qed/tree/main/imo2026).**
+> What follows is a read-only snapshot, kept so that existing links keep working.
+> Updates, fixes and issues live in [hoa-qed](https://github.com/humanfia/hoa-qed/tree/main/imo2026) only.
+
 # Humanfia at IMO 2026 
 
 > [!NOTE]
